@@ -1,0 +1,11 @@
+{
+    "extends": "../../tslint.json",
+    "linterOptions": {
+        "exclude": [
+            "./sdk/**"
+        ]
+    },
+    "jsRules": {
+        "no-console": false
+    }
+}
